@@ -11,6 +11,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Run the setup script
   config.vm.provision :shell do |external_shell|
-    external_shell.path = 'python_setup.sh'
+    external_shell.path = 'setup.sh'
   end
 end

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yum install -y git centos-release-SCL
+yum install -y vim git centos-release-SCL
 yum install -y python33
 
 cat >/etc/profile.d/enablepython33.sh <<EOL
