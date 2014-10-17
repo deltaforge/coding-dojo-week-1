@@ -1,7 +1,7 @@
 # Vagrant project for the Mars Rover Kata
 
 
-Aimed to get you up and running with the Mars Rover Kata without touch much messing around.
+Aimed to get you up and running with the Mars Rover Kata without too much messing around.
 
 * Centos65
 * Python3
